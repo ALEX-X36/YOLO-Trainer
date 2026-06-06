@@ -500,4 +500,4 @@ MODEL_SIZES = {
 
 - [Ultralytics YOLO 文档](https://docs.ultralytics.com/)
 - [Gradio 文档](https://www.gradio.app/docs)
-- [SeeFish 项目](../SeeFish/) — 使用本训练器产出的模型进行鱼类识别
+- [SeeFish 项目](https://github.com/ALEX-X36/SeeFish) — 使用本训练器产出的模型进行鱼类识别
